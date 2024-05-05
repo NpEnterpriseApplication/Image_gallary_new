@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467540600447",
+    "project_id": "image-galary-cd036",
+    "storage_bucket": "image-galary-cd036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467540600447:android:1bc3fc8fb8b017569c014a",
+        "android_client_info": {
+          "package_name": "com.example.image_galary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qHBwA-HeLZXBri8Hic7QOuAu_3nREbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467540600447:android:0a2223df22d504399c014a",
+        "android_client_info": {
+          "package_name": "com.example.testupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qHBwA-HeLZXBri8Hic7QOuAu_3nREbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
